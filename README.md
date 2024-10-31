@@ -1,4 +1,4 @@
-<img src="https://imgur.com/emeviLl.gif" style="float: center">
+<img src="https://imgur.com/emeviLl.png" style="float: center">
 
 
 
