@@ -1,4 +1,4 @@
-![](https://imgur.com/emeviLl.gif "Air traffic around the world in one day")
+<img src="https://imgur.com/emeviLl.gif" style="float: center">
 
 
 
