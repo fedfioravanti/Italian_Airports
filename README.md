@@ -1,4 +1,4 @@
-<img src="https://imgur.com/emeviLl.png" style="float: center">
+![](images/00_cover.gif?raw=true)
 
 
 
